@@ -1,0 +1,11 @@
+Chapter01 - intro; the expected audience, compiler and platform used
+Chapter02 - fork, wait
+Chapter03 - signal, SIGUSR1, SIGUSR2, SIGINT; signal custom handling(kill)
+Chapter04 - pipe; anonymous pipes 
+Chapter05 - mknod; named pipes (FIFO)
+Chapter06 - fcntl; file locking
+Chapter07 - ftok, msgget, msgsnd, msgrcv, msgctl; SYSTEM V message queues
+Chapter08 - ftok, semget, semctl, semop; SYSTEM V Semaphore Arrays
+Chapter09 - ftok, shmget, shmat, shmdt, shmctl; SYSTEM V shared memory
+Chapter10 - mmap, munmap; memory mapped files
+Chapter11 - socket, connect, bind, listen, accept, recv, send; UNIX sockets
